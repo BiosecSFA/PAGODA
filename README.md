@@ -394,11 +394,10 @@ If you use this pipeline, please cite:
 
 ## License
 
-[Specify license]
+MIT License
 
 ## Contact
-
-[Add contact information]
+Chenling Xu: chenlingantelope@gmail.com
 
 ## Acknowledgments
 
