@@ -43,7 +43,11 @@ python scripts/dpalign.py purE hisI 1
 **Fully Self-Contained**: All packages, tools, and dependencies are installed within the `conda/` directory. No global environment pollution. The entire environment can be transferred by copying just the `conda/` directory.
 
 ## Installation
-
+### cloning the repo
+```bash
+git lfs install
+git clone https://github.com/BiosecSFA/PAGODA.git
+```
 ### macOS Setup
 
 ```bash
