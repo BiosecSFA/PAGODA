@@ -1,0 +1,22 @@
+name: overlap-design
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - biotite>=0.36
+  - biopython>=1.80
+  - numpy>=1.21
+  - pandas>=1.3
+  - pytorch>=1.10
+  - scipy>=1.7
+  - matplotlib>=3.4
+  - seaborn>=0.11
+  - tqdm
+  - statsmodels>=0.13
+  - cmake
+  - make
+  - git
+  - curl
+  - tar
+  # Note: CUDA toolkit loaded via module system on HPC
